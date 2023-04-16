@@ -9,7 +9,7 @@
 ![Screenshot](/PICTURES/01_VET6_MCU.jpg)
 
 # Board top view
-![Screenshot](//PICTURES/02_VET605_TOP_BLACK.jpg)
+![Screenshot](/PICTURES/02_VET605_TOP_BLACK.jpg)
 
 # Board bottom view
 ![Screenshot](/PICTURES/03_VET6_BOTTOM_BLACK.jpg)
